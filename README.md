@@ -1,6 +1,16 @@
 # Pet Finder App UI in Flutter
 ![alt text](https://i.imgur.com/rIqziCQ.png)
 
+https://flutter.dev/docs/reference/flutter-cli
+
+```
+ flutter create my_app
+ cd my_app
+ flutter analyze
+ flutter test
+ flutter run lib/main.dart
+ ```
+
 # 🤝 Support Us  
 Buy me a coffe: https://www.buymeacoffee.com/MadeWithFlutter  
 Patreon: https://www.patreon.com/MadeWithFlutter  
